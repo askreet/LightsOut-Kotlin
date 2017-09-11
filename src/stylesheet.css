@@ -1,0 +1,23 @@
+.root {
+    -fx-background: black;
+}
+
+.button {
+    -fx-background-color: dimgrey;
+    -fx-border-radius: 3;
+    -fx-border-color: red;
+}
+
+.button-off {
+    -fx-background-color: black;
+    -fx-background-radius: 5;
+    -fx-border-color: black;
+    -fx-border-radius: 5;
+}
+
+.button-on {
+    -fx-background-color: greenyellow;
+    -fx-background-radius: 15;
+    -fx-border-color: black;
+    -fx-border-radius: 15;
+}
